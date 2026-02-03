@@ -3,10 +3,12 @@
 Scout is a modular C networking utility designed to bridge the gap between human-readable hostnames and raw binary network addresses. Built with a focus on low-level memory discipline and protocol independence.
 
 <br>
+
 ## 🛡️ Technical Highlights
 Protocol Agnostic: Leverages the Berkeley Sockets API (getaddrinfo) to handle both IPv4 and IPv6 seamlessly without hardcoded families.
 
 <br>
+
 ## Modular Architecture 
 Clean separation of concerns with a dedicated scout engine and a separate driver logic.
 
